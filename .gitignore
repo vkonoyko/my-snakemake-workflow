@@ -1,0 +1,9 @@
+.snakemake/
+data/raw_data.json
+output/*
+!output/.gitkeep
+test_*
+*.log
+venv/
+__pycache__/
+*.pyc
